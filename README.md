@@ -26,7 +26,7 @@ The script will generate a dendrogram visualization of the UPGMA clustering of t
 
 Example
 
-python phylogenetic_tree.py or python phylogenetic_tree_course_version.py
+python phylogenetic_tree.py or python phylogenetic_tree_coursework_version.py
 
 Data Source
 
