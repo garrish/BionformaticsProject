@@ -6,24 +6,23 @@ This Python script performs UPGMA (Unweighted Pair Group Method with Arithmetic 
 
 Requirements
 
-	•	Python 3.x
+•	Python 3.x
  
-	•	NumPy
+•	NumPy
  
-	•	Biopython
+•	Biopython
  
-	•	SciPy
+•	SciPy
  
-	•	Matplotlib
+•	Matplotlib
  
 Usage
 
-		Clone or download the repository to your local machine.
-		Ensure that the required Python libraries (NumPy, Biopython, SciPy, and Matplotlib) are installed.
-		Place your FASTA file containing DNA sequences in the same directory as the script.
-		Modify the file_name variable in the script to specify the name of your FASTA file.
-		Run the script using a Python interpreter.
-		The script will generate a dendrogram visualization of the UPGMA clustering of the DNA sequences.
+Clone or download the repository to your local machine.
+Ensure that the required Python libraries (NumPy, Biopython, SciPy, and Matplotlib) are installed.
+Place your FASTA file containing DNA sequences in the same directory as the script.
+Modify the file_name variable in the script to specify the name of your FASTA file.
+The script will generate a dendrogram visualization of the UPGMA clustering of the DNA sequences.
 
 Data Source
 
