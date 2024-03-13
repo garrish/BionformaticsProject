@@ -27,3 +27,4 @@ The script will generate a dendrogram visualization of the UPGMA clustering of t
 Data Source
 
 The included data is modified from the NCBI (National Center for Biotechnology Information) genome database version: https://www.ncbi.nlm.nih.gov/datasets/
+![Uploading Screenshot 2024-03-13 at 1.24.28 PM.png…]()
