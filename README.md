@@ -24,6 +24,10 @@ Place your FASTA file containing DNA sequences in the same directory as the scri
 Modify the file_name variable in the script to specify the name of your FASTA file.
 The script will generate a dendrogram visualization of the UPGMA clustering of the DNA sequences.
 
+Example
+
+python phylogenetic_tree.py or python phylogenetic_tree_course_version.py
+
 Data Source
 
 The included data is modified from the NCBI (National Center for Biotechnology Information) genome database version: https://www.ncbi.nlm.nih.gov/datasets/
